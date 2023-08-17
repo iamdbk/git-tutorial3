@@ -1,2 +1,0 @@
-hiii new to git
-hi second commit
